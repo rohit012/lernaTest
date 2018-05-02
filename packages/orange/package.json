@@ -1,6 +1,6 @@
 {
-  "name": "lernaTest/orange",
-  "version": "0.0.1-0",
+  "name": "lerna-orange",
+  "version": "0.0.1-1",
   "description": "",
   "main": "index.js",
   "scripts": {
