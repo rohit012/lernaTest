@@ -1,0 +1,7 @@
+{
+	"name": "lernaTest",
+  "version": "0.1.0-SNAPSHOT",
+	"devDependencies": {
+		"lerna": "^2.11.0"
+	}
+}
